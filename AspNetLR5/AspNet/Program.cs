@@ -1,6 +1,6 @@
 
 var builder = WebApplication.CreateBuilder(args);
-builder.Services.AddDistributedMemoryCache(); // служба кешування
+builder.Services.AddDistributedMemoryCache(); 
 
 var app = builder.Build();
 
