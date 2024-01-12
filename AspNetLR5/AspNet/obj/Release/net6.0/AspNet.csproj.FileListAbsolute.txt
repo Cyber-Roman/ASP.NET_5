@@ -1,0 +1,5 @@
+D:\програмування\AspNet\AspNet\obj\Release\net6.0\AspNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\програмування\AspNet\AspNet\obj\Release\net6.0\AspNet.AssemblyInfoInputs.cache
+D:\програмування\AspNet\AspNet\obj\Release\net6.0\AspNet.AssemblyInfo.cs
+D:\програмування\AspNet\AspNet\obj\Release\net6.0\AspNet.csproj.CoreCompileInputs.cache
+D:\програмування\AspNet\AspNet\obj\Release\net6.0\AspNet.MvcApplicationPartsAssemblyInfo.cache

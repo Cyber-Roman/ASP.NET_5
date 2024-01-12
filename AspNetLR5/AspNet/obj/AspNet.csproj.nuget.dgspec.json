@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\УЧЕБА\\1 Розробка web-застосунків на базі ASP.NET\\AspNet\\AspNet\\AspNet.csproj": {}
+  },
+  "projects": {
+    "D:\\УЧЕБА\\1 Розробка web-застосунків на базі ASP.NET\\AspNet\\AspNet\\AspNet.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\УЧЕБА\\1 Розробка web-застосунків на базі ASP.NET\\AspNet\\AspNet\\AspNet.csproj",
+        "projectName": "AspNet",
+        "projectPath": "D:\\УЧЕБА\\1 Розробка web-застосунків на базі ASP.NET\\AspNet\\AspNet\\AspNet.csproj",
+        "packagesPath": "C:\\Users\\Sir BigBoy\\.nuget\\packages\\",
+        "outputPath": "D:\\УЧЕБА\\1 Розробка web-застосунків на базі ASP.NET\\AspNet\\AspNet\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sir BigBoy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,74 @@
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\appsettings.Development.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\appsettings.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\AspNet.exe
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\AspNet.deps.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\AspNet.runtimeconfig.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\AspNet.dll
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\AspNet.pdb
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\AspNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\AspNet.AssemblyInfoInputs.cache
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\AspNet.AssemblyInfo.cs
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\AspNet.csproj.CoreCompileInputs.cache
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\AspNet.MvcApplicationPartsAssemblyInfo.cache
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\staticwebassets\msbuild.AspNet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\staticwebassets\msbuild.build.AspNet.props
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AspNet.props
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AspNet.props
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\staticwebassets.pack.json
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\staticwebassets.build.json
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\staticwebassets.development.json
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\scopedcss\bundle\AspNet.styles.css
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\AspNet.dll
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\refint\AspNet.dll
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\AspNet.pdb
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\AspNet.genruntimeconfig.cache
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\ref\AspNet.dll
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\lr2\config.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\lr2\myname.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\lr4\Books.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user0.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user1.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user2.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user3.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user4.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user5.json
+D:\програмування\AspNet\AspNet\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\AspNet.csproj.AssemblyReference.cache
+D:\програмування\AspNet\AspNet\obj\Debug\net6.0\AspNet.csproj.CopyComplete
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\appsettings.Development.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\appsettings.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\lr2\config.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\lr2\myname.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\lr4\Books.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user0.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user1.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user2.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user3.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user4.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\lr4\users\user5.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\AspNet.exe
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\AspNet.deps.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\AspNet.runtimeconfig.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\AspNet.dll
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\AspNet.pdb
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\AspNet.csproj.AssemblyReference.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\AspNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\AspNet.AssemblyInfoInputs.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\AspNet.AssemblyInfo.cs
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\AspNet.csproj.CoreCompileInputs.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\AspNet.MvcApplicationPartsAssemblyInfo.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\staticwebassets\msbuild.AspNet.Microsoft.AspNetCore.StaticWebAssets.props
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\staticwebassets\msbuild.build.AspNet.props
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.AspNet.props
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.AspNet.props
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\staticwebassets.pack.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\staticwebassets.build.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\staticwebassets.development.json
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\scopedcss\bundle\AspNet.styles.css
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\AspNet.csproj.CopyComplete
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\AspNet.dll
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\refint\AspNet.dll
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\AspNet.pdb
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\AspNet.genruntimeconfig.cache
+D:\УЧЕБА\1 Розробка web-застосунків на базі ASP.NET\AspNet\AspNet\obj\Debug\net6.0\ref\AspNet.dll
